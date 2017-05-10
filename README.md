@@ -31,7 +31,7 @@ mvn install:install-file \
 <repositories>
     <repository>
         <id>ihcru</id>
-        <url>https://raw.github.com/ihcru/mvn/</url>
+        <url>https://github.com/ihcru/mvn/raw/master/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
