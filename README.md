@@ -48,7 +48,7 @@ https://github.com/ihcru/diadocsdk-java
   <dependency>
     <groupId>ru.kontur.diadoc</groupId>
     <artifactId>diadocsdk</artifactId>
-    <version>1.42.0</version>
+    <version>1.42.0-nojcp</version>
   </dependency>
 </dependencies>
 ```
