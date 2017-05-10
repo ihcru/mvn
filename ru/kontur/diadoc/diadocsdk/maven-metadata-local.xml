@@ -3,10 +3,11 @@
   <groupId>ru.kontur.diadoc</groupId>
   <artifactId>diadocsdk</artifactId>
   <versioning>
-    <release>1.42.0</release>
+    <release>1.42.0-nojcp</release>
     <versions>
       <version>1.42.0</version>
+      <version>1.42.0-nojcp</version>
     </versions>
-    <lastUpdated>20170510122811</lastUpdated>
+    <lastUpdated>20170510151950</lastUpdated>
   </versioning>
 </metadata>
