@@ -15,7 +15,7 @@ mvn install:install-file \
  -DartifactId=example \
  -Dversion=0.1 \
  -Dpackaging=jar \
- -Dfile=target/example-1.1-sources.jar \
+ -Dfile=target/example-0.1-sources.jar \
  -DlocalRepositoryPath=../mvn \
  -Dclassifier=sources
 ```
