@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.axis</groupId>
+  <artifactId>axis-jaxrpc</artifactId>
+  <version>1.4.1.324</version>
+  <versioning>
+    <lastUpdated>20170615105456</lastUpdated>
+  </versioning>
+</metadata>
