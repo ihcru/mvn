@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.ullink.slack</groupId>
+  <artifactId>simpleslackapi</artifactId>
+  <version>1.2.0.1c23175</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.8.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.7</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpclient</artifactId>
+      <version>4.5.3</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.httpcomponents</groupId>
+      <artifactId>httpmime</artifactId>
+      <version>4.5.3</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.threeten</groupId>
+      <artifactId>threetenbp</artifactId>
+      <version>1.3.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.glassfish.tyrus.bundles</groupId>
+      <artifactId>tyrus-standalone-client</artifactId>
+      <version>1.13.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>javax.websocket</groupId>
+      <artifactId>javax.websocket-api</artifactId>
+      <version>1.1</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+  <description>A simple API to build bot running on Slack</description>
+  <name>Simple Slack API</name>
+  <url>https://github.com/Ullink/simple-slack-api</url>
+  <licenses>
+    <license>
+      <name>CC0 1.0 Universal (CC0 1.0)</name>
+      <url>http://creativecommons.org/publicdomain/zero/1.0/</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>bcorne</id>
+      <name>Benoit Corne</name>
+      <email>benoit.corne@gmail.com</email>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>Christian Sprecher</name>
+      <email>kindofwhat@gmail.com</email>
+      <url>https://github.com/kindofwhat</url>
+    </contributor>
+    <contributor>
+      <name>Jan Vidar Krey</name>
+      <email>janvidar@extatic.org</email>
+    </contributor>
+    <contributor>
+      <name>David Seebacher</name>
+      <email>dseebacher@gmail.com</email>
+      <url>https://github.com/dseebacher</url>
+    </contributor>
+    <contributor>
+      <name>Wouter Vernaillen</name>
+      <url>http://www.vernaillen.com</url>
+    </contributor>
+    <contributor>
+      <name>Claudio Comandini</name>
+      <email>c.comandini@gmail.com</email>
+      <url>https://twitter.com/c_comandini</url>
+    </contributor>
+    <contributor>
+      <name>Maxim Gurkin</name>
+      <email>redmax3d@gmail.com</email>
+      <url>http://redcraft.net</url>
+    </contributor>
+    <contributor>
+      <name>Ole Kozaczenko</name>
+      <email>olkozacz@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>Georges Gomes</name>
+    </contributor>
+    <contributor>
+      <name>François Valdy</name>
+    </contributor>
+    <contributor>
+      <name>Harry Fox</name>
+      <email>harry.fox.ic@icloud.com</email>
+      <url>https://github.com/ParaPenguin</url>
+    </contributor>
+    <contributor>
+      <name>Logan Clément</name>
+      <email>logs.be@gmail.com</email>
+    </contributor>
+    <contributor>
+      <name>Rhys Kenwell</name>
+      <email>purbleguy@gmail.com</email>
+      <url>http://redrield.github.io/</url>
+    </contributor>
+    <contributor>
+      <name>Dmitry Che</name>
+      <email>morfeusys@gmail.com</email>
+      <url>https://github.com/Morfeusys</url>
+    </contributor>
+    <contributor>
+      <name>Bahadir Akin</name>
+      <email>bhdrkn@gmail.com</email>
+      <url>https://github.com/bhdrkn</url>
+    </contributor>
+  </contributors>
+  <scm>
+    <connection>scm:git:git@github.com:Ullink/simple-slack-api.git</connection>
+    <developerConnection>scm:git:git@github.com:Ullink/simple-slack-api.git</developerConnection>
+    <url>git@github.com/Ullink/simple-slack-api</url>
+  </scm>
+</project>
