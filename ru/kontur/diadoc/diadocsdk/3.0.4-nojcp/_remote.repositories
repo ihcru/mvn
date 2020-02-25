@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 25 15:55:05 YEKT 2020
+diadocsdk-3.0.4-nojcp.pom>=
+diadocsdk-3.0.4-nojcp-sources.jar>=
+diadocsdk-3.0.4-nojcp.jar>=
